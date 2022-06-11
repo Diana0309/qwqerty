@@ -1,0 +1,109 @@
+body {
+    font-family: sans-serif;
+    background-color: black;
+}
+
+nav {
+    border-top: 5px solid white;
+    border-bottom: 5px solid white;
+    padding: 25px 100px 25px 95px;
+    display: flex;
+    justify-content: space-between;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 36px;
+    margin-top: 45px;
+    margin-bottom: 40px;
+}
+
+
+footer {
+    background-color: black;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 30px 30px 20px 45px;
+}
+
+
+.img1 {
+    width: 600px;
+    padding: 25px 25px 25px 25px;
+    justify-content: center;
+}
+
+.logo {
+    width: 100px;
+}
+
+.text2 {
+    width: 525px;
+    justify-content: center;
+    padding: 25px 25px 25px 25px;
+}
+
+section {
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.img11 {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 3px solid rgb(246, 137, 13);
+    float: left;
+    margin-left: 57px;
+}
+.imgundercircle1 {
+    width: 280px;
+    float: left;
+    margin-left: 35px;  
+
+}
+
+
+.img12 {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 3px solid rgb(112, 240, 180);
+    float: left;
+    margin-left: 57px;
+}
+.imgundercircle2 {
+    width: 280px;
+    float: left;
+    margin-left: 57px;
+}
+
+
+.img13 {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 3px solid rgb(3, 39, 158);
+    float: left;
+    margin-left: 57px;
+}
+.imgundercircle3 {
+    width: 200px;
+    float: left;
+    margin-left: 57px;
+}
+
+
+.tel {
+    width: 280px;
+    position: absolute;
+    right: 666px;
+    top: 1050px;   
+}
+
+iframe {
+
+}
